@@ -60,7 +60,7 @@ const Contact = () => {
                     </div>
                     <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
                         <h2 className="title-font font-semibold text-white tracking-widest text-xs">EMAIL</h2>
-                        <a href='/' className="text-t1 leading-relaxed">ridekaro@email.com</a>
+                        <a href='/' className="text-t1 leading-relaxed">ridekaro@gmail.com</a>
                         <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">PHONE</h2>
                         <p className="leading-relaxed text-white">+91 8188822242</p>
                     </div>
@@ -90,7 +90,7 @@ const Contact = () => {
                     </div>
 
                     <button type='button' onClick={userdetails}
-                        className="btn btn-lg">Button</button>
+                        className="btn btn-lg">Submit</button>
                 </form>
                 <p className="text-[18px] text-white mt-3">Don't worrry about your personal contact details, it can't be shared with anyone else.</p>
             </motion.div>
