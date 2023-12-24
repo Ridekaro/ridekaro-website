@@ -5,7 +5,7 @@ const Services = () => {
         <div className="container px-5 py-24 mx-auto">
             <div className="flex flex-col text-center w-full mb-20">
                 <h1 className="sm:text-4xl text-3xl font-medium title-font mb-2 text-gradient">Available vehicles</h1>
-                <p className="lg:w-2/3 mx-auto leading-relaxed text-white text-sn">Currently the available rate of booking vehicle is ₹500 per 24hr and fuel is upto you.</p>
+                <p className="lg:w-2/3 mx-auto leading-relaxed text-white text-sn">Currently the available rate of booking vehicle is ₹600 per 24hr and fuel is upto you.</p>
             </div>
             <div className="lg:w-2/3 w-full mx-auto overflow-auto">
                 <table className="table-auto w-full text-left whitespace-no-wrap">
@@ -25,7 +25,7 @@ const Services = () => {
                     <tbody>
                         <tr>
                             <td className="px-4 py-3 text-white">Ntorq-125</td>
-                            <td className="px-4 py-3 text-lg text-white">20%</td>
+                            <td className="px-4 py-3 text-lg text-white">15%</td>
                         </tr>
                         {/* <tr>
                             <td className="border-t-2 border-gray-200 px-4 py-3 text-white">Activa-125</td>
